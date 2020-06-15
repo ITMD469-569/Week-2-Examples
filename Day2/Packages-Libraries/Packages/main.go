@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/tsmith-41/golang-examples/Week2/Day2/Packages-Libraries/Packages/math"
+	"github.com/tsmith-41/week2Lab2Module/math"
 )
 
 func main() {
